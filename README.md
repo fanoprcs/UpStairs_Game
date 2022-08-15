@@ -45,6 +45,5 @@ void JumpContinuously(){
 ## 遊戲畫面
 ![image](https://user-images.githubusercontent.com/96753049/184709216-6bfd95b4-454c-498e-947e-e0b50409f405.png)
 
-
 ![image](https://user-images.githubusercontent.com/96753049/184709017-5a287838-6b13-4a98-870c-b5abc07b566b.png)
 
